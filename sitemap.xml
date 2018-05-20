@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vanova.github.io/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub7/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/resume/</loc>
+    <lastmod>2018-03-05T01:05:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub9/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub6/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub5/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub4/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub8/</loc>
+    <lastmod>2015-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub3/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub1/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/pub2/</loc>
+    <lastmod>2009-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/acoustic-scene-classification/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/audio-tagging/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/bootstrap/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/categories/conference/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/confidence-measure/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/convolutional-neural-networks/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/convolutional-recurrent-neural-networks/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/css/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/deep-botleneck-features/</loc>
+    <lastmod>2015-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/deep-learning/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/eer/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/equal-error-rate/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/evaluation/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/foreign-accent-recognition/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/go/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/highlight-js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/html/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/hugo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/i-vector/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/language-recognition/</loc>
+    <lastmod>2015-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/lre/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/manner-of-articulation/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/maximal-figure-of-merit/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/mfom/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/multi-label-classification/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/nist-lre-2015/</loc>
+    <lastmod>2015-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/place-of-articulation/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/publication/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/restricted-boltzmann-machine/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/sequence-to-sequence/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/speaker-recognition/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/speech-articulatory-attributes-detection/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/speech-attributes/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/spoken-language-recognition/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/t-sne/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/categories/technical-report/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/categories/thesis/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/utterance-verification/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/vitae/</loc>
+    <lastmod>2018-03-05T01:05:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

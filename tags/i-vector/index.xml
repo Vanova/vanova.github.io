@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I Vector on Ivan Kukanov | Personal Page</title>
+    <link>https://vanova.github.io/tags/i-vector/</link>
+    <description>Recent content in I Vector on Ivan Kukanov | Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vanova.github.io/tags/i-vector/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boosting Universal Speech Attributes Classification with Deep Neural Network for Foreign Accent Characterization</title>
+      <link>https://vanova.github.io/publication/pub3/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/pub3/</guid>
+      <description>We have recently proposed a universal acoustic characterisation to foreign accent recognition, in which any spoken foreign accent was described in terms of a common set of fundamental speech attributes. Although experimental evidence demonstrated the feasibility of our approach, we belive that speech attributes, namely manner and place of articulation, can be better modelled by a deep neural network. In this work, we propose the use of deep neural network trained on telephone bandwidth material from different languages to improve the proposed universal acoustic characterisation.</description>
+    </item>
+    
+  </channel>
+</rss>

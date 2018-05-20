@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Botleneck Features on Ivan Kukanov | Personal Page</title>
+    <link>https://vanova.github.io/tags/deep-botleneck-features/</link>
+    <description>Recent content in Deep Botleneck Features on Ivan Kukanov | Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vanova.github.io/tags/deep-botleneck-features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fantastic 4 system for NIST 2015 Language Recognition Evaluation</title>
+      <link>https://vanova.github.io/publication/pub8/</link>
+      <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/pub8/</guid>
+      <description>This article describes the systems jointly submitted by Institute for Infocomm (I2R), the Laboratoire d&amp;rsquo;Informatique de l&amp;rsquo;Universit\&amp;lsquo;e du Maine (LIUM), Nanyang Technology University (NTU) and the University of Eastern Finland (UEF) for 2015 NIST Language Recognition Evaluation (LRE). The submitted system is a fusion of nine sub-systems based on i-vectors extracted from different types of features. Given the i-vectors, several classifiers are adopted for the language detection task including support vector machines (SVM), multi-class logistic regression (MCLR), Probabilistic Linear Discriminant Analysis (PLDA) and Deep Neural Networks (DNN).</description>
+    </item>
+    
+  </channel>
+</rss>

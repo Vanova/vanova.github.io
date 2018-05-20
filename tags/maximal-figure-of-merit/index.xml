@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximal Figure of Merit on Ivan Kukanov | Personal Page</title>
+    <link>https://vanova.github.io/tags/maximal-figure-of-merit/</link>
+    <description>Recent content in Maximal Figure of Merit on Ivan Kukanov | Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vanova.github.io/tags/maximal-figure-of-merit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maximal Figure-of-Merit Embedding for Multi-label Audio Classification</title>
+      <link>https://vanova.github.io/publication/pub7/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/pub7/</guid>
+      <description>This work tackles the problem of the domestic audio tagging or environmental sound classification, where one audio recording can contain one or more acoustic events and a recognizer should output all of those tags. A baseline model for this task is a convolutional recurrent neural network (CRNN) with sigmoid output nodes optimized using the binary crossentropy objective. Traditional error metrics, such as classification error, are not suitable for this type of task.</description>
+    </item>
+    
+    <item>
+      <title>Recurrent Neural Network and Maximal Figure of Merit for Acoustic Event Detection</title>
+      <link>https://vanova.github.io/publication/pub9/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/pub9/</guid>
+      <description>In this report, we describe the systems submitted to the DCASE 2017 challenge. In particular, we explored convolutional recurrent neural network (CRNN) for acoustic scene classification (Task 1). For the weakly supervised sound event detection (Task 4), we utilized CRNN by embedding maximal figure-of-merit (CRNNMFoM) into the binary cross-entropy objective function. On the development data set, the CRNN model achieves an average 14.7% relative accuracy improvement on the classification Task 1, the CRNN-MFoM improves F1-score from 10.</description>
+    </item>
+    
+    <item>
+      <title>Deep learning with Maximal Figure-of-Merit Cost to Advance Multi-label Speech Attribute Detection</title>
+      <link>https://vanova.github.io/publication/pub6/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/pub6/</guid>
+      <description>In this work, we are interested in boosting speech attribute detection by formulating it as a multi-label classification task, and deep neural networks (DNNs) are used to design speech attribute detectors. A straightforward way to tackle the speech attribute detection task is to estimate DNN parameters using the mean squared error (MSE) loss function and employ a sigmoid function in the DNN output nodes. A more principled way is nonetheless to incorporate the micro-F1 measure, which is a widely used metric in the multi-label classification, into the DNN loss function to directly improve the metric of interest at training time.</description>
+    </item>
+    
+    <item>
+      <title>Development of a speech control system the medical equipment</title>
+      <link>https://vanova.github.io/publication/pub2/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/pub2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

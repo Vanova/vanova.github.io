@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech Articulatory Attributes Detection on Ivan Kukanov | Personal Page</title>
+    <link>https://vanova.github.io/tags/speech-articulatory-attributes-detection/</link>
+    <description>Recent content in Speech Articulatory Attributes Detection on Ivan Kukanov | Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vanova.github.io/tags/speech-articulatory-attributes-detection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep learning with Maximal Figure-of-Merit Cost to Advance Multi-label Speech Attribute Detection</title>
+      <link>https://vanova.github.io/publication/pub6/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/pub6/</guid>
+      <description>In this work, we are interested in boosting speech attribute detection by formulating it as a multi-label classification task, and deep neural networks (DNNs) are used to design speech attribute detectors. A straightforward way to tackle the speech attribute detection task is to estimate DNN parameters using the mean squared error (MSE) loss function and employ a sigmoid function in the DNN output nodes. A more principled way is nonetheless to incorporate the micro-F1 measure, which is a widely used metric in the multi-label classification, into the DNN loss function to directly improve the metric of interest at training time.</description>
+    </item>
+    
+  </channel>
+</rss>

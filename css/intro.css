@@ -1,0 +1,4 @@
+/*home page: override height padding*/
+.intro {
+    transform: translateY(7vh);
+}
