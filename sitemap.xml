@@ -3,19 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vanova.github.io/project/project1/</loc>
+    <loc>https://vanova.github.io/project/facebook-autoreply-chatbot/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vanova.github.io/project/project2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vanova.github.io/project/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vanova.github.io/project/project4/</loc>
+    <loc>https://vanova.github.io/blog/good-practices-proj-struct/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -81,12 +75,25 @@
   </url>
   
   <url>
-    <loc>https://vanova.github.io/tags/bootstrap/</loc>
+    <loc>https://vanova.github.io/tags/autoreply/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/blog/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vanova.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/chatbot/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,7 +122,8 @@
   </url>
   
   <url>
-    <loc>https://vanova.github.io/tags/css/</loc>
+    <loc>https://vanova.github.io/tags/cookiecutter/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,6 +136,12 @@
   <url>
     <loc>https://vanova.github.io/tags/deep-learning/</loc>
     <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/docker/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,33 +164,20 @@
   </url>
   
   <url>
+    <loc>https://vanova.github.io/tags/facebook/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vanova.github.io/tags/foreign-accent-recognition/</loc>
     <lastmod>2016-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vanova.github.io/tags/go/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanova.github.io/tags/golang/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanova.github.io/tags/highlight-js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanova.github.io/tags/html/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanova.github.io/tags/hugo/</loc>
+    <loc>https://vanova.github.io/tags/good_prictices/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,12 +189,7 @@
   
   <url>
     <loc>https://vanova.github.io/</loc>
-    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanova.github.io/tags/js/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -246,18 +242,20 @@
   </url>
   
   <url>
+    <loc>https://vanova.github.io/tags/project/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vanova.github.io/project/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vanova.github.io/publication/</loc>
     <lastmod>2018-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanova.github.io/tags/responsive/</loc>
     <priority>0</priority>
   </url>
   
@@ -298,7 +296,8 @@
   </url>
   
   <url>
-    <loc>https://vanova.github.io/tags/syntax-highlighting/</loc>
+    <loc>https://vanova.github.io/tags/structure/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -317,6 +316,12 @@
   <url>
     <loc>https://vanova.github.io/categories/technical-report/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanova.github.io/tags/template/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
