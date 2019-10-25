@@ -1,23 +1,27 @@
-main { margin-bottom: 15px; }
+main { 
+  margin-bottom: 15px; 
+  max-width: 850px;
+}
 
-.list {
+/*.list {
   display: flex;
   flex-wrap: wrap;
-  /*margin-left: -15px; In order to make in the center*/
-}
+}*/
+
 .list section {
   flex: 1 0 350px;
   box-sizing: border-box;
-  box-shadow: 0 0 8px #ccc;
+  box-shadow: 0 0 3px #ccc;
   margin: 1em 0 0 15px;
   padding: 1em;
   overflow-x: hidden;
 }
-@media (max-width: 380px) {
+
+/*@media (max-width: 380px) {
   .list section { flex: auto; }
 }
+
 @media (min-width: 715px) {
-  /*.list section { max-width: calc(50% - 15px); } /* Comment if want in one column */
   .article-list h1 {
     overflow-x: hidden;
     white-space: nowrap;
@@ -25,20 +29,125 @@ main { margin-bottom: 15px; }
   }
   .article-list h1:hover { white-space: inherit; }
 }
-/*@media (min-width: 1080px) {
-  .list section { max-width: calc(33.33333% - 15px); }
-}*/
+*/
+.article-list a, .banner a { 
+  color: #000; 
+}
 
-.article-list a, .banner a { color: #000; }
 .categories {
   text-align: left;
 }
+
 .categories a {
   font-size: .9em;
   font-weight: bolder;
   text-transform: uppercase;
   color: #666;
 }
+
+/*************************************************
+ *  Publication & thumbnail in one row
+ **************************************************/
+
+/*.cv-row {
+    margin: 0 auto;
+    padding: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}*/
+
+.column {
+    float: left;
+}
+
+.left {
+    width: 83%;
+    margin-right: 2%;
+}
+
+.right {
+    width: 15%;
+}
+
+/* Clear floats after the columns */
+.cv-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.pub-body { 
+  text-align: left;
+}
+
+/* Responsive layout:
+    makes the two columns stack on top of each other 
+    instead of next to each other */
+@media (max-width: 700px) {
+  .column {
+      width: 100%;
+  }
+}
+
+.date-author > .author {
+    color: #808080;
+    font-size: 100%;
+}
+
+.date-author > p .place + .date::before {
+    content: '—';
+    margin-right: 6px;
+}
+
+.thumbnail {
+  height: 6.1em;
+  width: 6.8em;
+  float: left;
+  overflow: hidden;
+  margin: 5% 0 0 10%;  /* 5px 5px 5px 10px;*/
+  box-shadow: 0 0 8px #666;
+}
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/*************************************************
+ *  Button size override
+ *************************************************/
+
+.btn {
+  padding: .5rem;
+  font-size: .6rem;
+  line-height: .5;
+  border-radius: .3rem;
+}
+
+.btn.btn-sm {
+  padding: .6rem;
+  font-size: 1.2rem;
+  border-radius: .4rem;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;    
+}
+
+/*************************************************
+ *  Button Primary: Color override
+ **************************************************/
+
+.btn.btn-outline-primary {
+  border-color: red;
+  color: red;
+}
+
+.btn.btn-outline-primary:hover {
+  color: white;
+  background-color: red;
+  border-color: red;
+}
+
+/* Other stuff */
 
 h1 a:hover { text-decoration: underline; }
 .article-list h1 { margin: .2em auto .2em 0; }
@@ -49,6 +158,7 @@ article { padding: 1em; }
   padding: 5px;
   border-radius: 5px;
 }
+
 .menu, .article-meta, footer, .post-nav { text-align: center; }
 .article-footer { text-align: left; }
 .title { font-size: 1.2em; }
@@ -110,17 +220,3 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 tr:nth-child(even) { background: #eee }
-
-.thumbnail {
-  height: 6.1em;
-  width: 6.8em;
-  float: left;
-  overflow: hidden;
-  margin: 5px 8px 5px 0;
-  box-shadow: 0 0 8px #666;
-}
-.thumbnail img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}

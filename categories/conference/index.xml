@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on Ivan Kukanov | Personal Page</title>
-    <link>https://vanova.github.io/categories/conference/</link>
+    <link>https://kukanov.com/categories/conference/</link>
     <description>Recent content in Conference on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://vanova.github.io/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kukanov.com/categories/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Maximal Figure-of-Merit Embedding for Multi-label Audio Classification</title>
-      <link>https://vanova.github.io/publication/pub7/</link>
+      <link>https://kukanov.com/publication/2018/pub7/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/pub7/</guid>
+      <guid>https://kukanov.com/publication/2018/pub7/</guid>
       <description>This work tackles the problem of the domestic audio tagging or environmental sound classification, where one audio recording can contain one or more acoustic events and a recognizer should output all of those tags. A baseline model for this task is a convolutional recurrent neural network (CRNN) with sigmoid output nodes optimized using the binary crossentropy objective. Traditional error metrics, such as classification error, are not suitable for this type of task.</description>
     </item>
     
     <item>
       <title>Deep learning with Maximal Figure-of-Merit Cost to Advance Multi-label Speech Attribute Detection</title>
-      <link>https://vanova.github.io/publication/pub6/</link>
+      <link>https://kukanov.com/publication/2016/pub6/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/pub6/</guid>
+      <guid>https://kukanov.com/publication/2016/pub6/</guid>
       <description>In this work, we are interested in boosting speech attribute detection by formulating it as a multi-label classification task, and deep neural networks (DNNs) are used to design speech attribute detectors. A straightforward way to tackle the speech attribute detection task is to estimate DNN parameters using the mean squared error (MSE) loss function and employ a sigmoid function in the DNN output nodes. A more principled way is nonetheless to incorporate the micro-F1 measure, which is a widely used metric in the multi-label classification, into the DNN loss function to directly improve the metric of interest at training time.</description>
     </item>
     
     <item>
       <title>The 2015 NIST Language Recognition Evaluation: the Shared View of I2R, Fantastic4 and SingaMS</title>
-      <link>https://vanova.github.io/publication/pub5/</link>
+      <link>https://kukanov.com/publication/2016/pub5/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/pub5/</guid>
+      <guid>https://kukanov.com/publication/2016/pub5/</guid>
       <description>The series of language recognition evaluations (LRE’s) conducted by the National Institute of Standards and Technology (NIST) have been one of the driving forces in advancing spoken language recognition technology. This paper presents a shared view of five institutions resulting from our collaboration toward LRE 2015 submissions under the names of I2R, Fantastic4, and SingaMS. Among others, LRE’15 emphasizes on language detection in the context of closely related languages, which is different from previous LRE’s.</description>
     </item>
     
     <item>
       <title>Utterance Verification for Text-Dependent Speaker Recognition: a Comparative Assessment Using the RedDots Corpus</title>
-      <link>https://vanova.github.io/publication/pub4/</link>
+      <link>https://kukanov.com/publication/2016/pub4/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/pub4/</guid>
+      <guid>https://kukanov.com/publication/2016/pub4/</guid>
       <description>Text-dependent automatic speaker verification naturally calls for the simultaneous verification of speaker identity and spoken content. These two tasks can be achieved with automatic speaker verification (ASV) and utterance verification (UV) technologies. While both have been addressed previously in the literature, a treatment of simultaneous speaker and utterance verification with a modern, standard database is so far lacking. This is despite the burgeoning demand for voice biometrics in a plethora of practical security applications.</description>
     </item>
     
     <item>
       <title>Boosting Universal Speech Attributes Classification with Deep Neural Network for Foreign Accent Characterization</title>
-      <link>https://vanova.github.io/publication/pub3/</link>
+      <link>https://kukanov.com/publication/2015/pub3/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/pub3/</guid>
+      <guid>https://kukanov.com/publication/2015/pub3/</guid>
       <description>We have recently proposed a universal acoustic characterisation to foreign accent recognition, in which any spoken foreign accent was described in terms of a common set of fundamental speech attributes. Although experimental evidence demonstrated the feasibility of our approach, we belive that speech attributes, namely manner and place of articulation, can be better modelled by a deep neural network. In this work, we propose the use of deep neural network trained on telephone bandwidth material from different languages to improve the proposed universal acoustic characterisation.</description>
     </item>
     
     <item>
       <title>Development of a speech control system the medical equipment</title>
-      <link>https://vanova.github.io/publication/pub2/</link>
+      <link>https://kukanov.com/publication/2009/pub1/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/pub2/</guid>
+      <guid>https://kukanov.com/publication/2009/pub1/</guid>
       <description></description>
     </item>
     

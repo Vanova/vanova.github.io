@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speech Attributes on Ivan Kukanov | Personal Page</title>
-    <link>https://vanova.github.io/tags/speech-attributes/</link>
+    <link>https://kukanov.com/tags/speech-attributes/</link>
     <description>Recent content in Speech Attributes on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://vanova.github.io/tags/speech-attributes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kukanov.com/tags/speech-attributes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Boosting Universal Speech Attributes Classification with Deep Neural Network for Foreign Accent Characterization</title>
-      <link>https://vanova.github.io/publication/pub3/</link>
+      <link>https://kukanov.com/publication/2015/pub3/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/pub3/</guid>
+      <guid>https://kukanov.com/publication/2015/pub3/</guid>
       <description>We have recently proposed a universal acoustic characterisation to foreign accent recognition, in which any spoken foreign accent was described in terms of a common set of fundamental speech attributes. Although experimental evidence demonstrated the feasibility of our approach, we belive that speech attributes, namely manner and place of articulation, can be better modelled by a deep neural network. In this work, we propose the use of deep neural network trained on telephone bandwidth material from different languages to improve the proposed universal acoustic characterisation.</description>
     </item>
     
     <item>
       <title>Speech attribute detection using deep learning</title>
-      <link>https://vanova.github.io/publication/pub1/</link>
+      <link>https://kukanov.com/publication/2015/pub1/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/pub1/</guid>
+      <guid>https://kukanov.com/publication/2015/pub1/</guid>
       <description>In this work we present alternative models for attribute speech feature extraction based on the two state-of-the-art deep neural networks: convolutional neural networks (CNN) and feed-forward neural network with pretraining using stack of restricted Boltzmann machines (DBN-DNN). These attribute detectors are trained using data-driven approach across all languages in the OGI-TS multi-language telephone speech corpus. Thus, such a detectors can be considered as the universal phonetician alphabet (UPA), which can detect phonologically distinctive articulatory features belonging to all languages.</description>
     </item>
     

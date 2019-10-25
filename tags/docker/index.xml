@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on Ivan Kukanov | Personal Page</title>
-    <link>https://vanova.github.io/tags/docker/</link>
+    <link>https://kukanov.com/tags/docker/</link>
     <description>Recent content in Docker on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://vanova.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kukanov.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Good Practices for Project Folder Structure</title>
-      <link>https://vanova.github.io/blog/good-practices-proj-struct/</link>
+      <link>https://kukanov.com/blog/good-practices-proj-struct/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/blog/good-practices-proj-struct/</guid>
+      <guid>https://kukanov.com/blog/good-practices-proj-struct/</guid>
       <description> Structuring your project </description>
     </item>
     
