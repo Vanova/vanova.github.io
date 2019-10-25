@@ -6,10 +6,19 @@
     <description>Recent content in Technical Report on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vanova.github.io/categories/technical-report/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences</title>
+      <link>https://vanova.github.io/publication/2019/pub1/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/2019/pub1/</guid>
+      <description>The I4U consortium was established to facilitate a joint entry to NIST speaker recognition evaluations (SRE). The latest edition of such joint submission was in SRE 2018, in which the I4U submission was among the best-performing systems. SRE&amp;rsquo;18 also marks the 10-year anniversary of I4U consortium into NIST SRE series of evaluation. The primary objective of the current paper is to summarize the results and lessons learned based on the twelve sub-systems and their fusion submitted to SRE&amp;rsquo;18.</description>
+    </item>
     
     <item>
       <title>Recurrent Neural Network and Maximal Figure of Merit for Acoustic Event Detection</title>

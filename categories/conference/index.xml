@@ -6,10 +6,19 @@
     <description>Recent content in Conference on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vanova.github.io/categories/conference/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The I2R’s Submission To VOiCES Distance Speaker Recognition Challenge 2019</title>
+      <link>https://vanova.github.io/publication/2019/pub2/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/2019/pub2/</guid>
+      <description>This paper is about the I2R’s submission to the VOiCES from a distance speaker recognition challenge 2019. The submissions were based on the fusion of two x-vectors and two i-vectors subsystems. Main efforts have been focused on the frontend de-reverberation processing, PLDA backend design, score normalization and fusion studies in order to improve the system performance on single channel distant/farfield audio, under noisy conditions. We contribute to the fixed condition task under specific training and development data set.</description>
+    </item>
     
     <item>
       <title>Maximal Figure-of-Merit Embedding for Multi-label Audio Classification</title>

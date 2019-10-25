@@ -6,10 +6,28 @@
     <description>Recent content in Audio Tagging on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vanova.github.io/tags/audio-tagging/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The I2R’s Submission To VOiCES Distance Speaker Recognition Challenge 2019</title>
+      <link>https://vanova.github.io/publication/2019/pub2/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/2019/pub2/</guid>
+      <description>This paper is about the I2R’s submission to the VOiCES from a distance speaker recognition challenge 2019. The submissions were based on the fusion of two x-vectors and two i-vectors subsystems. Main efforts have been focused on the frontend de-reverberation processing, PLDA backend design, score normalization and fusion studies in order to improve the system performance on single channel distant/farfield audio, under noisy conditions. We contribute to the fixed condition task under specific training and development data set.</description>
+    </item>
+    
+    <item>
+      <title>I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences</title>
+      <link>https://vanova.github.io/publication/2019/pub1/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/2019/pub1/</guid>
+      <description>The I4U consortium was established to facilitate a joint entry to NIST speaker recognition evaluations (SRE). The latest edition of such joint submission was in SRE 2018, in which the I4U submission was among the best-performing systems. SRE&amp;rsquo;18 also marks the 10-year anniversary of I4U consortium into NIST SRE series of evaluation. The primary objective of the current paper is to summarize the results and lessons learned based on the twelve sub-systems and their fusion submitted to SRE&amp;rsquo;18.</description>
+    </item>
     
     <item>
       <title>Maximal Figure-of-Merit Embedding for Multi-label Audio Classification</title>
