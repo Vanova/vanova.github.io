@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi Label Classification on Ivan Kukanov | Personal Page</title>
-    <link>https://kukanov.com/tags/multi-label-classification/</link>
+    <link>https://vanova.github.io/tags/multi-label-classification/</link>
     <description>Recent content in Multi Label Classification on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kukanov.com/tags/multi-label-classification/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanova.github.io/tags/multi-label-classification/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Maximal Figure-of-Merit Embedding for Multi-label Audio Classification</title>
-      <link>https://kukanov.com/publication/2018/pub7/</link>
+      <link>https://vanova.github.io/publication/2018/pub7/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/publication/2018/pub7/</guid>
+      <guid>https://vanova.github.io/publication/2018/pub7/</guid>
       <description>This work tackles the problem of the domestic audio tagging or environmental sound classification, where one audio recording can contain one or more acoustic events and a recognizer should output all of those tags. A baseline model for this task is a convolutional recurrent neural network (CRNN) with sigmoid output nodes optimized using the binary crossentropy objective. Traditional error metrics, such as classification error, are not suitable for this type of task.</description>
     </item>
     

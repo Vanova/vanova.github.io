@@ -2,345 +2,345 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ivan Kukanov | Personal Page</title>
-    <link>https://kukanov.com/tags/</link>
+    <link>https://vanova.github.io/tags/</link>
     <description>Recent content in Tags on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kukanov.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanova.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acoustic Scene Classification</title>
-      <link>https://kukanov.com/tags/acoustic-scene-classification/</link>
+      <link>https://vanova.github.io/tags/acoustic-scene-classification/</link>
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/acoustic-scene-classification/</guid>
+      <guid>https://vanova.github.io/tags/acoustic-scene-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio Tagging</title>
-      <link>https://kukanov.com/tags/audio-tagging/</link>
+      <link>https://vanova.github.io/tags/audio-tagging/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/audio-tagging/</guid>
+      <guid>https://vanova.github.io/tags/audio-tagging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autoreply</title>
-      <link>https://kukanov.com/tags/autoreply/</link>
+      <link>https://vanova.github.io/tags/autoreply/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/autoreply/</guid>
+      <guid>https://vanova.github.io/tags/autoreply/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chatbot</title>
-      <link>https://kukanov.com/tags/chatbot/</link>
+      <link>https://vanova.github.io/tags/chatbot/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/chatbot/</guid>
+      <guid>https://vanova.github.io/tags/chatbot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confidence Measure</title>
-      <link>https://kukanov.com/tags/confidence-measure/</link>
+      <link>https://vanova.github.io/tags/confidence-measure/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/confidence-measure/</guid>
+      <guid>https://vanova.github.io/tags/confidence-measure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional Neural Networks</title>
-      <link>https://kukanov.com/tags/convolutional-neural-networks/</link>
+      <link>https://vanova.github.io/tags/convolutional-neural-networks/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/convolutional-neural-networks/</guid>
+      <guid>https://vanova.github.io/tags/convolutional-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional Recurrent Neural Networks</title>
-      <link>https://kukanov.com/tags/convolutional-recurrent-neural-networks/</link>
+      <link>https://vanova.github.io/tags/convolutional-recurrent-neural-networks/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/convolutional-recurrent-neural-networks/</guid>
+      <guid>https://vanova.github.io/tags/convolutional-recurrent-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cookiecutter</title>
-      <link>https://kukanov.com/tags/cookiecutter/</link>
+      <link>https://vanova.github.io/tags/cookiecutter/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/cookiecutter/</guid>
+      <guid>https://vanova.github.io/tags/cookiecutter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Botleneck Features</title>
-      <link>https://kukanov.com/tags/deep-botleneck-features/</link>
+      <link>https://vanova.github.io/tags/deep-botleneck-features/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/deep-botleneck-features/</guid>
+      <guid>https://vanova.github.io/tags/deep-botleneck-features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://kukanov.com/tags/deep-learning/</link>
+      <link>https://vanova.github.io/tags/deep-learning/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/deep-learning/</guid>
+      <guid>https://vanova.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://kukanov.com/tags/docker/</link>
+      <link>https://vanova.github.io/tags/docker/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/docker/</guid>
+      <guid>https://vanova.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eer</title>
-      <link>https://kukanov.com/tags/eer/</link>
+      <link>https://vanova.github.io/tags/eer/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/eer/</guid>
+      <guid>https://vanova.github.io/tags/eer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equal Error Rate</title>
-      <link>https://kukanov.com/tags/equal-error-rate/</link>
+      <link>https://vanova.github.io/tags/equal-error-rate/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/equal-error-rate/</guid>
+      <guid>https://vanova.github.io/tags/equal-error-rate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation</title>
-      <link>https://kukanov.com/tags/evaluation/</link>
+      <link>https://vanova.github.io/tags/evaluation/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/evaluation/</guid>
+      <guid>https://vanova.github.io/tags/evaluation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facebook</title>
-      <link>https://kukanov.com/tags/facebook/</link>
+      <link>https://vanova.github.io/tags/facebook/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/facebook/</guid>
+      <guid>https://vanova.github.io/tags/facebook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foreign Accent Recognition</title>
-      <link>https://kukanov.com/tags/foreign-accent-recognition/</link>
+      <link>https://vanova.github.io/tags/foreign-accent-recognition/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/foreign-accent-recognition/</guid>
+      <guid>https://vanova.github.io/tags/foreign-accent-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Good_prictices</title>
-      <link>https://kukanov.com/tags/good_prictices/</link>
+      <link>https://vanova.github.io/tags/good_prictices/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/good_prictices/</guid>
+      <guid>https://vanova.github.io/tags/good_prictices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I Vector</title>
-      <link>https://kukanov.com/tags/i-vector/</link>
+      <link>https://vanova.github.io/tags/i-vector/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/i-vector/</guid>
+      <guid>https://vanova.github.io/tags/i-vector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Language Recognition</title>
-      <link>https://kukanov.com/tags/language-recognition/</link>
+      <link>https://vanova.github.io/tags/language-recognition/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/language-recognition/</guid>
+      <guid>https://vanova.github.io/tags/language-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lre</title>
-      <link>https://kukanov.com/tags/lre/</link>
+      <link>https://vanova.github.io/tags/lre/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/lre/</guid>
+      <guid>https://vanova.github.io/tags/lre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manner of Articulation</title>
-      <link>https://kukanov.com/tags/manner-of-articulation/</link>
+      <link>https://vanova.github.io/tags/manner-of-articulation/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/manner-of-articulation/</guid>
+      <guid>https://vanova.github.io/tags/manner-of-articulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximal Figure of Merit</title>
-      <link>https://kukanov.com/tags/maximal-figure-of-merit/</link>
+      <link>https://vanova.github.io/tags/maximal-figure-of-merit/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/maximal-figure-of-merit/</guid>
+      <guid>https://vanova.github.io/tags/maximal-figure-of-merit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mfom</title>
-      <link>https://kukanov.com/tags/mfom/</link>
+      <link>https://vanova.github.io/tags/mfom/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/mfom/</guid>
+      <guid>https://vanova.github.io/tags/mfom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi Label Classification</title>
-      <link>https://kukanov.com/tags/multi-label-classification/</link>
+      <link>https://vanova.github.io/tags/multi-label-classification/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/multi-label-classification/</guid>
+      <guid>https://vanova.github.io/tags/multi-label-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nist Lre 2015</title>
-      <link>https://kukanov.com/tags/nist-lre-2015/</link>
+      <link>https://vanova.github.io/tags/nist-lre-2015/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/nist-lre-2015/</guid>
+      <guid>https://vanova.github.io/tags/nist-lre-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Place of Articulation</title>
-      <link>https://kukanov.com/tags/place-of-articulation/</link>
+      <link>https://vanova.github.io/tags/place-of-articulation/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/place-of-articulation/</guid>
+      <guid>https://vanova.github.io/tags/place-of-articulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>https://kukanov.com/tags/project/</link>
+      <link>https://vanova.github.io/tags/project/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/project/</guid>
+      <guid>https://vanova.github.io/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restricted Boltzmann Machine</title>
-      <link>https://kukanov.com/tags/restricted-boltzmann-machine/</link>
+      <link>https://vanova.github.io/tags/restricted-boltzmann-machine/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/restricted-boltzmann-machine/</guid>
+      <guid>https://vanova.github.io/tags/restricted-boltzmann-machine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequence to Sequence</title>
-      <link>https://kukanov.com/tags/sequence-to-sequence/</link>
+      <link>https://vanova.github.io/tags/sequence-to-sequence/</link>
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/sequence-to-sequence/</guid>
+      <guid>https://vanova.github.io/tags/sequence-to-sequence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speaker Recognition</title>
-      <link>https://kukanov.com/tags/speaker-recognition/</link>
+      <link>https://vanova.github.io/tags/speaker-recognition/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/speaker-recognition/</guid>
+      <guid>https://vanova.github.io/tags/speaker-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech Articulatory Attributes Detection</title>
-      <link>https://kukanov.com/tags/speech-articulatory-attributes-detection/</link>
+      <link>https://vanova.github.io/tags/speech-articulatory-attributes-detection/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/speech-articulatory-attributes-detection/</guid>
+      <guid>https://vanova.github.io/tags/speech-articulatory-attributes-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech Attributes</title>
-      <link>https://kukanov.com/tags/speech-attributes/</link>
+      <link>https://vanova.github.io/tags/speech-attributes/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/speech-attributes/</guid>
+      <guid>https://vanova.github.io/tags/speech-attributes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spoken Language Recognition</title>
-      <link>https://kukanov.com/tags/spoken-language-recognition/</link>
+      <link>https://vanova.github.io/tags/spoken-language-recognition/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/spoken-language-recognition/</guid>
+      <guid>https://vanova.github.io/tags/spoken-language-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structure</title>
-      <link>https://kukanov.com/tags/structure/</link>
+      <link>https://vanova.github.io/tags/structure/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/structure/</guid>
+      <guid>https://vanova.github.io/tags/structure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T Sne</title>
-      <link>https://kukanov.com/tags/t-sne/</link>
+      <link>https://vanova.github.io/tags/t-sne/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/t-sne/</guid>
+      <guid>https://vanova.github.io/tags/t-sne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>https://kukanov.com/tags/template/</link>
+      <link>https://vanova.github.io/tags/template/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/template/</guid>
+      <guid>https://vanova.github.io/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Utterance Verification</title>
-      <link>https://kukanov.com/tags/utterance-verification/</link>
+      <link>https://vanova.github.io/tags/utterance-verification/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/tags/utterance-verification/</guid>
+      <guid>https://vanova.github.io/tags/utterance-verification/</guid>
       <description></description>
     </item>
     

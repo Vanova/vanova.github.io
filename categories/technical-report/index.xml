@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Report on Ivan Kukanov | Personal Page</title>
-    <link>https://kukanov.com/categories/technical-report/</link>
+    <link>https://vanova.github.io/categories/technical-report/</link>
     <description>Recent content in Technical Report on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kukanov.com/categories/technical-report/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanova.github.io/categories/technical-report/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recurrent Neural Network and Maximal Figure of Merit for Acoustic Event Detection</title>
-      <link>https://kukanov.com/publication/2017/pub9/</link>
+      <link>https://vanova.github.io/publication/2017/pub9/</link>
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/publication/2017/pub9/</guid>
+      <guid>https://vanova.github.io/publication/2017/pub9/</guid>
       <description>In this report, we describe the systems submitted to the DCASE 2017 challenge. In particular, we explored convolutional recurrent neural network (CRNN) for acoustic scene classification (Task 1). For the weakly supervised sound event detection (Task 4), we utilized CRNN by embedding maximal figure-of-merit (CRNNMFoM) into the binary cross-entropy objective function. On the development data set, the CRNN model achieves an average 14.7% relative accuracy improvement on the classification Task 1, the CRNN-MFoM improves F1-score from 10.</description>
     </item>
     
     <item>
       <title>Fantastic 4 system for NIST 2015 Language Recognition Evaluation</title>
-      <link>https://kukanov.com/publication/2015/pub8/</link>
+      <link>https://vanova.github.io/publication/2015/pub8/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/publication/2015/pub8/</guid>
+      <guid>https://vanova.github.io/publication/2015/pub8/</guid>
       <description>This article describes the systems jointly submitted by Institute for Infocomm (I2R), the Laboratoire d&amp;rsquo;Informatique de l&amp;rsquo;Universit\&amp;lsquo;e du Maine (LIUM), Nanyang Technology University (NTU) and the University of Eastern Finland (UEF) for 2015 NIST Language Recognition Evaluation (LRE). The submitted system is a fusion of nine sub-systems based on i-vectors extracted from different types of features. Given the i-vectors, several classifiers are adopted for the language detection task including support vector machines (SVM), multi-class logistic regression (MCLR), Probabilistic Linear Discriminant Analysis (PLDA) and Deep Neural Networks (DNN).</description>
     </item>
     

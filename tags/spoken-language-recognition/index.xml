@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spoken Language Recognition on Ivan Kukanov | Personal Page</title>
-    <link>https://kukanov.com/tags/spoken-language-recognition/</link>
+    <link>https://vanova.github.io/tags/spoken-language-recognition/</link>
     <description>Recent content in Spoken Language Recognition on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kukanov.com/tags/spoken-language-recognition/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanova.github.io/tags/spoken-language-recognition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The 2015 NIST Language Recognition Evaluation: the Shared View of I2R, Fantastic4 and SingaMS</title>
-      <link>https://kukanov.com/publication/2016/pub5/</link>
+      <link>https://vanova.github.io/publication/2016/pub5/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/publication/2016/pub5/</guid>
+      <guid>https://vanova.github.io/publication/2016/pub5/</guid>
       <description>The series of language recognition evaluations (LRE’s) conducted by the National Institute of Standards and Technology (NIST) have been one of the driving forces in advancing spoken language recognition technology. This paper presents a shared view of five institutions resulting from our collaboration toward LRE 2015 submissions under the names of I2R, Fantastic4, and SingaMS. Among others, LRE’15 emphasizes on language detection in the context of closely related languages, which is different from previous LRE’s.</description>
     </item>
     

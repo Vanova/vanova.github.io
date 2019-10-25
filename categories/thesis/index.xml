@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis on Ivan Kukanov | Personal Page</title>
-    <link>https://kukanov.com/categories/thesis/</link>
+    <link>https://vanova.github.io/categories/thesis/</link>
     <description>Recent content in Thesis on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kukanov.com/categories/thesis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanova.github.io/categories/thesis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Speech attribute detection using deep learning</title>
-      <link>https://kukanov.com/publication/2015/pub1/</link>
+      <link>https://vanova.github.io/publication/2015/pub1/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kukanov.com/publication/2015/pub1/</guid>
+      <guid>https://vanova.github.io/publication/2015/pub1/</guid>
       <description>In this work we present alternative models for attribute speech feature extraction based on the two state-of-the-art deep neural networks: convolutional neural networks (CNN) and feed-forward neural network with pretraining using stack of restricted Boltzmann machines (DBN-DNN). These attribute detectors are trained using data-driven approach across all languages in the OGI-TS multi-language telephone speech corpus. Thus, such a detectors can be considered as the universal phonetician alphabet (UPA), which can detect phonologically distinctive articulatory features belonging to all languages.</description>
     </item>
     
