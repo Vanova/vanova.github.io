@@ -84,11 +84,38 @@
     </item>
     
     <item>
+      <title>Crnn</title>
+      <link>https://vanova.github.io/tags/crnn/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/tags/crnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dbns</title>
+      <link>https://vanova.github.io/tags/dbns/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/tags/dbns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Botleneck Features</title>
       <link>https://vanova.github.io/tags/deep-botleneck-features/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://vanova.github.io/tags/deep-botleneck-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Bottleneck Features</title>
+      <link>https://vanova.github.io/tags/deep-bottleneck-features/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/tags/deep-bottleneck-features/</guid>
       <description></description>
     </item>
     
@@ -203,7 +230,7 @@
     <item>
       <title>Maximal Figure of Merit</title>
       <link>https://vanova.github.io/tags/maximal-figure-of-merit/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vanova.github.io/tags/maximal-figure-of-merit/</guid>
       <description></description>
@@ -282,6 +309,15 @@
     </item>
     
     <item>
+      <title>Speech Articulatory Attributes</title>
+      <link>https://vanova.github.io/tags/speech-articulatory-attributes/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/tags/speech-articulatory-attributes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speech Articulatory Attributes Detection</title>
       <link>https://vanova.github.io/tags/speech-articulatory-attributes-detection/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
@@ -302,7 +338,7 @@
     <item>
       <title>Spoken Language Recognition</title>
       <link>https://vanova.github.io/tags/spoken-language-recognition/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vanova.github.io/tags/spoken-language-recognition/</guid>
       <description></description>

@@ -6,10 +6,19 @@
     <description>Recent content in Spoken Language Recognition on Ivan Kukanov | Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vanova.github.io/tags/spoken-language-recognition/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Maximal Figure-of-Merit Framework to Detect Multi-label Phonetic Features for Spoken Language Recognition</title>
+      <link>https://vanova.github.io/publication/2019/pub3/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/2019/pub3/</guid>
+      <description>Bottleneck features (BNFs) generated with a deep neural network (DNN) have proven to boost spoken language recognition accuracy over basic spectral features significantly. However, BNFs are commonly extracted using language-dependent tied-context phone states as learning targets. Moreover, BNFs are less phonetically expressive than the output layer in a DNN, which is usually not used as a speech feature because of its very high dimensionality hindering further post-processing. In this article, we put forth a novel deep learning framework to overcome all of the above issues and evaluate it on the 2017 NIST Language Recognition Evaluation (LRE) challenge.</description>
+    </item>
     
     <item>
       <title>The 2015 NIST Language Recognition Evaluation: the Shared View of I2R, Fantastic4 and SingaMS</title>

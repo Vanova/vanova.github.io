@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Maximal Figure-of-Merit Framework to Detect Multi-label Phonetic Features for Spoken Language Recognition</title>
+      <link>https://vanova.github.io/publication/2019/pub3/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanova.github.io/publication/2019/pub3/</guid>
+      <description>Bottleneck features (BNFs) generated with a deep neural network (DNN) have proven to boost spoken language recognition accuracy over basic spectral features significantly. However, BNFs are commonly extracted using language-dependent tied-context phone states as learning targets. Moreover, BNFs are less phonetically expressive than the output layer in a DNN, which is usually not used as a speech feature because of its very high dimensionality hindering further post-processing. In this article, we put forth a novel deep learning framework to overcome all of the above issues and evaluate it on the 2017 NIST Language Recognition Evaluation (LRE) challenge.</description>
+    </item>
+    
+    <item>
       <title>The I2R’s Submission To VOiCES Distance Speaker Recognition Challenge 2019</title>
       <link>https://vanova.github.io/publication/2019/pub2/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
@@ -103,10 +112,10 @@
     
     <item>
       <title>Fantastic 4 system for NIST 2015 Language Recognition Evaluation</title>
-      <link>https://vanova.github.io/publication/2015/pub8/</link>
+      <link>https://vanova.github.io/publication/2015/pub2/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://vanova.github.io/publication/2015/pub8/</guid>
+      <guid>https://vanova.github.io/publication/2015/pub2/</guid>
       <description>This article describes the systems jointly submitted by Institute for Infocomm (I2R), the Laboratoire d&amp;rsquo;Informatique de l&amp;rsquo;Universit\&amp;lsquo;e du Maine (LIUM), Nanyang Technology University (NTU) and the University of Eastern Finland (UEF) for 2015 NIST Language Recognition Evaluation (LRE). The submitted system is a fusion of nine sub-systems based on i-vectors extracted from different types of features. Given the i-vectors, several classifiers are adopted for the language detection task including support vector machines (SVM), multi-class logistic regression (MCLR), Probabilistic Linear Discriminant Analysis (PLDA) and Deep Neural Networks (DNN).</description>
     </item>
     
